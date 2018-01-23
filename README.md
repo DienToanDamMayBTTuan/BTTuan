@@ -1,2 +1,0 @@
-# BTTuan
-Bài Tập Tuần 
